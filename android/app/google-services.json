@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "249980026974",
+    "firebase_url": "https://freelancing-f9c8b.firebaseio.com",
+    "project_id": "freelancing-f9c8b",
+    "storage_bucket": "freelancing-f9c8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249980026974:android:064b63b8ea7ef44ade34cf",
+        "android_client_info": {
+          "package_name": "com.example.womenCare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249980026974-qb8b84nqdcrlqf93tellambetrg4s598.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLHViG_Ex2WNUm1IpuADJZ_84_Elrms0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249980026974-qb8b84nqdcrlqf93tellambetrg4s598.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
