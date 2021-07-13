@@ -1,6 +1,5 @@
-# womenCare
-
-A new Flutter project.
+# SHE Women Hygiene
+SHE Application is basically for females so that they can be self dependent and work for their own.
 
 ## Getting Started
 
